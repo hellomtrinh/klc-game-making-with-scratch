@@ -4,7 +4,7 @@
 
 Preview Facilitator Guide: <a href="https://ladieslearningcode.github.io/klc-game-making-with-scratch/facilitator-guide.html">ladieslearningcode.github.io/klc-game-making-with-scratch/facilitator-guide.html</a>
 
-Preview Slides: <a href="https://ladieslearningcode.github.io/klc-game-making-with-scratch/slides.html">ladieslearningcode.github.io/klc-game-making-with-scratch/slides.html</a>
+Preview Slides: <a href="https://hellomtrinh.github.io/klc-game-making-with-scratch/slides.html">hellomtrinh.github.io/klc-game-making-with-scratch/slides.html</a>
 
 Activity List: <a href="http://bit.ly/scratch-activity-list">bit.ly/scratch-activity-list</a>
 
